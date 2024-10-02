@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+.maincontainer{
+     background-color: rgb(31 50 90);
+     color: white;
+     padding-top: 20px;
+      display: flex;
+      
+}
+.secondmain{
+    width: 80%;
+    height: 100%;
+    padding-left: 50px;
+}
+.imgcontainer{
+    padding: 50px;
+}
+
+img{
+    border: 3px solid black;
+}
+
+.name{
+    font-size: 30px;
+    
+}
+.DESIGNATION{
+    padding-top: 5px;
+}
+.info{
+    padding-top: 40px;
+    padding-right: 200px;
+    font-size: 20px;
+}
+.address{
+    padding-top: 40px;
+    display: flex;
+    gap: 50px;
+}
+
+
+ion-icon{
+    font-size: 25px;
+}
+ .address span{
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+}
+.experience{
+    background-color: rgb(17 50 113);
+    margin-top: 40px;
+    width: max-content;
+    color: white;
+    padding: 10px;
+    border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+div.work{
+    border-bottom: 2px solid black;
+    margin-right: 50px;
+}
+.job{
+    display: flex;
+    gap: 30px;
+    padding-left: 70px ;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.date{
+    display: flex;
+    gap: 20px;
+    padding-left: 50px;
+    font-size: 20px;
+    margin-right: 50px;
+}
+.from{
+    width: 245px;
+}
+
+.education{
+    background-color: rgb(17 41 93);
+    color: white;
+    width: fit-content;
+    margin-top: 40px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 120px;
+    border: 2px solid black;
+
+}
+.educontainer{
+    border-bottom:2px solid black;
+    margin-right: 50px;
+}
+.collage{
+    display: flex;
+    gap: 30px;
+    padding-left: 65px ;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.collageyear{
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+}
+.year{
+    margin-left: 180px;
+    
+    width: 140px;
+}
+
+.highschool{
+    display: flex;
+    gap: 35px;
+    padding-left: 100px ;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.lorem{
+    display: flex;
+    gap: 35px;
+    font-size: 20px;
+}
+
+.common{
+    background-color: rgb(17 41 93);
+    color: white;
+    width: fit-content;
+    margin-top: 40px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 80px;
+    border: 2px solid black;
+}
+
+.communicationcontainer{
+    padding-left: 50px;
+    font-size: 22px;
+    padding-right: 50px;
+}
+.communication{
+    border-bottom:2px solid black;
+    margin-right: 50px;
+}
